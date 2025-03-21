@@ -9,7 +9,7 @@ import requests
 import json
 
 print("============================  NEWS APP  =======================================")
-GNEWS_API_KEY = "ad7fcb63e0242aadaf1920e26a67441a"  
+GNEWS_API_KEY = "your api key"  
 
 query = input("What type of news do you want: ")
 print("****************************************************************************")
